@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chanchal Sen</h1>
 <h3 align="center">C++ and Data Structures enthusiast, specializing in MERN stack development.</h3>
 
-- 🔭 I’m currently working on **GEN-G Cloths**
 
 - 🌱 I’m currently learning **I'm currently focused on web development using the MERN stack.**
-
-- 👯 I’m looking to collaborate on **GEN.G Shop**
-
-- 🤝 I’m looking for help with **Hair Wizard Admin App**
 
 - 👨‍💻 All of my projects are available at [https://chanchalsen09.netlify.app](https://chanchalsen09.netlify.app)
 
