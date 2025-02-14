@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **I'm currently focused on web development using the MERN stack.**
 
-- 👨‍💻 All of my projects are available at [https://chanchalsen09.netlify.app](https://chanchalsen09.netlify.app)
+- 👨‍💻 All of my projects are available at [https://chanchalsen09.netlify.app](https://chanchalsen.netlify.app)
 
 - 💬 Ask me about **Feel free to initiate a conversation about your wide-ranging interests beyond coding, encompassing a fervent love for gaming and development. I'm eager to share insights, discuss experiences, delve into projects, or chat about anything that captures your curiosity—let's make the conversation as exciting as your interests!**
 
