@@ -31,3 +31,20 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chanchalsen09&show_icons=true&locale=en&layout=compact" alt="chanchalsen09" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chanchalsen09&show_icons=true&locale=en" alt="chanchalsen09" /></p>
+
+### 📊 GitHub Stats
+
+#### My Coding Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chanchalsen09&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+</p>
+
+#### Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chanchalsen09&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+#### Contribution Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chanchalsen09&theme=dark" alt="GitHub Streak" />
+</p>
