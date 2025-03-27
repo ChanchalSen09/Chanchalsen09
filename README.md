@@ -20,7 +20,7 @@
   </a>  &nbsp;&nbsp;&nbsp;
   <!-- Express.js (White Logo) --> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40" style="background:white; padding:5px; border-radius:5px;"/>
+    <img src="https://images.seeklogo.com/logo-png/33/1/express-js-logo-png_seeklogo-339850.png" alt="Express.js" width="40" height="40" style="background:white; padding:5px; border-radius:5px;"/>
   </a>  &nbsp;&nbsp;&nbsp;
   <!-- MongoDB --> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -32,7 +32,7 @@
   </a>  &nbsp;&nbsp;&nbsp;
   <!-- Tailwind CSS --> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+    <img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" alt="Tailwind CSS" width="40" height="40"/>
   </a>  &nbsp;&nbsp;&nbsp;
   <!-- HTML5 --> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
