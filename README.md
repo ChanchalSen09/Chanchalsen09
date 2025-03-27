@@ -20,7 +20,7 @@
   </a>  &nbsp;&nbsp;&nbsp;
   <!-- Express.js (White Logo) --> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://images.seeklogo.com/logo-png/33/1/express-js-logo-png_seeklogo-339850.png" alt="Express.js" width="40" height="40" style="background:white; padding:5px; border-radius:5px;"/>
+    <img src="https://www.guayerd.com/wp-content/uploads/2021/04/expressjs-logo.svg" alt="Express.js" width="40" height="40"/>
   </a>  &nbsp;&nbsp;&nbsp;
   <!-- MongoDB --> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
