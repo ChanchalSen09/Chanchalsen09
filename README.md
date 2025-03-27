@@ -72,7 +72,7 @@
 
 #### Contribution Streak
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=Chanchalsen09&theme=dark" alt="GitHub Streak" /></a>
+  <a href="https://chanchalsen.netlify.app/"><img src="https://git-hub-streak-stats.vercel.app?user=Chanchalsen09&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 #### My Coding Activity
