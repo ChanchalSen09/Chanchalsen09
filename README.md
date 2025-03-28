@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chanchal Sen</h1>
-<h3 align="center">C++ and Data Structures enthusiast, specializing in MERN stack development.</h3>
+<h3 align="center">MERN stack developer building scalable web applications, with a passion for AI and Machine Learning.</h3>
 
-- ⚡ Fun fact *A tech enthusiast excelling in coding and gaming, surprisingly also a savvy investor, showcasing a unique blend of analytical prowess in both digital and financial realms.*
+- ⚡ Fun fact: *A tech enthusiast passionate about coding and gaming, always exploring new innovations in AI and problem-solving.*
+
 ---
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 5px;">
@@ -22,45 +23,37 @@
   <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="Firebase logo" />
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="Postman logo" />
   <img src="https://skillicons.dev/icons?i=materialui" height="30" alt="Material UI logo" />
-
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="Figma logo" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="Docker logo" />
 </div>
-
 
 ---
 
-
-<div align="center" style="display: flex; flex-wrap: wrap;">
+<div align="center">
     <a href="mailto:bkchanchalsen@gmail.com" target="_blank">
         <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="Email logo" />
-    </a>  <img width="4" />
+    </a>  
     <a href="https://www.linkedin.com/in/chanchal09/" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn logo" />
-    </a>  <img width="4" />
+    </a>  
     <a href="https://leetcode.com/u/Chanchalsen09/" target="_blank">
         <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png" height="30" alt="LeetCode logo"  />
-    </a>  <img width="4" />
+    </a>  
+    <a href="https://chanchalsen.netlify.app/" target="_blank">
+        <img src="https://chanchalsen.netlify.app/assets/Avatar-hTL26VLf.webp" height="30" alt="Portfolio logo"  />
+    </a> 
+      <a href="https://x.com/ChanchalSe5934?t=NhbAw9xggqwy4x4I__SJgA&s=09" target="_blank">
+        <img src="https://skillicons.dev/icons?i=twitter" height="30" alt="twitter logo"  />
+    </a> 
 </div>
-
 
 ---
 
-### 📊 GitHub Stats
-
-#### Contribution Streak
 <p align="center">
   <a href="https://chanchalsen.netlify.app/" target = "_blank"><img src="https://git-hub-streak-stats.vercel.app?user=Chanchalsen09&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
-#### My Coding Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chanchalsen09&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-</p>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Chanchalsen09" alt="Profile Views" />
+</div>
 
-#### Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chanchalsen09&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=Chanchalsen09" alt="Profile Views" /> </div>
