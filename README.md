@@ -40,7 +40,7 @@
         <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png" height="30" alt="LeetCode logo"  />
     </a>  
     <a href="https://chanchalsen.netlify.app/" target="_blank">
-        <img src="https://chanchalsen.netlify.app/assets/Avatar-hTL26VLf.webp" height="30" alt="Portfolio logo"  />
+        <img src="https://chanchalsen.netlify.app/assets/ghibliimg-O46USaXb.png" height="30" alt="Portfolio logo"  />
     </a> 
       <a href="https://x.com/ChanchalSe5934?t=NhbAw9xggqwy4x4I__SJgA&s=09" target="_blank">
         <img src="https://skillicons.dev/icons?i=twitter" height="30" alt="twitter logo"  />
