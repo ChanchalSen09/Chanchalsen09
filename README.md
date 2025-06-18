@@ -62,7 +62,5 @@
 </p>
 
 
----
-
 > 🧩 _“I don’t just build apps—I build **systems** that scale.”_  
 > — **Chanchal Sen**
