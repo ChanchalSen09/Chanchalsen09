@@ -56,8 +56,8 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chanchalsen09&theme=dark" />
-  <br/>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chanchalsen09&theme=dark" /> -->
+<!--   <br/> -->
   <img src="https://komarev.com/ghpvc/?username=Chanchalsen09" alt="Profile Views" />
 </p>
 
