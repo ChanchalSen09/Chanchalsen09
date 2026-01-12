@@ -1,3 +1,5 @@
+<div align="center">
+<img src="cropped_circle_image (1).png" width="180" style="border-radius:50%; box-shadow: 0 10px 30px rgba(0,0,0,0.35);" /></div>
 <h1 align="center">Hi 👋, I'm Chanchal Sen</h1>
 <h3 align="center">MERN Stack Developer | Building Scalable Apps | AI & ML Enthusiast</h3>
 
