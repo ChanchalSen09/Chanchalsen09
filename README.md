@@ -25,7 +25,7 @@
 
 ### 🔥 About Me
 
-- 🧑‍💻 Full Stack Developer currently working at **Extuent**
+- 🧑‍💻 Full Stack Developer currently working at **Natlov Technologies Pvt. Ltd.**
 - 🚀 1+ year of experience in **MERN Stack**, building robust, user-friendly, and scalable apps
 - 🧠 Passionate about **Machine Learning**, **System Design**, and solving complex problems
 - 💬 Open to tech discussions: **React**, **WebSockets**, **API Architecture**, and **Clean Code**
