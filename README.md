@@ -1,7 +1,7 @@
 <div align="center">
 <img src="cropped_circle_image (1).png" width="180" style="border-radius:50%; box-shadow: 0 10px 30px rgba(0,0,0,0.35);" /></div>
 <h1 align="center">Hi 👋, I'm Chanchal Sen</h1>
-<h3 align="center">MERN Stack Developer | Building Scalable Apps | AI & ML Enthusiast</h3>
+<h3 align="center">AI Full Stack Engineer | Python, Django, React | LangChain, RAG & Agentic AI</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chanchal09/" target="_blank">
@@ -26,9 +26,11 @@
 ### 🔥 About Me
 
 - 🧑‍💻 Full Stack Developer currently working at **Natlov Technologies Pvt. Ltd.**
-- 🚀 1+ year of experience in **MERN Stack**, building robust, user-friendly, and scalable apps
+- 🚀 Building web and AI-powered applications using Django, React, TypeScript, and Python
+- 🤖 Working with LangChain, LangGraph, RAG, Vector Databases, and Local LLMs
+- 🏗️ Interested in scalable backend systems, system design, and AI application architecture
 - 🧠 Passionate about **Machine Learning**, **System Design**, and solving complex problems
-- 💬 Open to tech discussions: **React**, **WebSockets**, **API Architecture**, and **Clean Code**
+- 💬 Open to discussions around Django, APIs, AI Workflows, RAG Systems, and Full Stack Development
 
 ---
 
@@ -36,26 +38,16 @@
 
 <!-- Elegant professional animation using SVG typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&duration=2500&pause=1000&center=true&vCenter=true&width=600&height=35&lines=Expertise+%7C+Frontend+%2B+Backend+%2B+DevOps;MERN+Stack+%7C+TypeScript+%7C+System+Design;Clean+Code+%2B+Real-time+Apps+%2B+ML+Exploration" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&duration=2500&pause=1000&center=true&vCenter=true&width=800&height=35&lines=Full+Stack+Python+Developer;Django+%7C+React+%7C+TypeScript;AI+Applications+%7C+RAG+%7C+LangChain;LangGraph+%7C+Vector+Databases+%7C+AWS;Building+Scalable+Software+and+AI+Systems" />
 </p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,nodejs,express,mongodb,graphql,redis" /><br/>
-  <img src="https://skillicons.dev/icons?i=python,mysql,cpp,gcp,aws,docker,firebase,postman,git,materialui,figma" />
+  <img src="https://skillicons.dev/icons?i=python,django,react,nextjs,ts,tailwind,nodejs,postgres,mysql,mongodb,docker,aws" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,redis,cpp,vscode,figma" />
 </div>
 
----
-
-### 🧠 Currently Learning
-
-- 📡 Real-time apps with **WebSockets + Django Channels**
-- 🤖 **ML models & data preprocessing** with Python
-- 🏗️ **Scalable architectures** using design patterns and best practices
-- 🛠️ Tools I'm exploring: `Zustand`, `Biome.js`, `Swagger`, `TypeScript`
 
 ---
-
-
 
 > 🧩 _“I don’t just build apps—I build **systems** that scale.”_  
 > — **Chanchal Sen**
