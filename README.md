@@ -1,5 +1,5 @@
 <div align="center">
-<img src="sparks.png" width="180" style="border-radius:50%; box-shadow: 0 10px 30px rgba(0,0,0,0.35);" /></div>
+<img src="char.gif" width="180" style="border-radius:50%; box-shadow: 0 10px 30px rgba(0,0,0,0.35);" /></div>
 <h1 align="center">Hi 👋, I'm Chanchal Sen</h1>
 <h3 align="center">AI Full Stack Engineer | Python, Django, React | LangChain, RAG & Agentic AI</h3>
 
