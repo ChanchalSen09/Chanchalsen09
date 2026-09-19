@@ -7,12 +7,6 @@
   width="100%"
   alt="Chanchal Sen — AI Full-Stack Engineer"
 />
-
-<br/>
-
-
-<!-- ===================== SNAKE CONTRIBUTION GAME ===================== -->
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
